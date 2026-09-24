@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./PPFPNG.svg" width="500">
+  <img src="./Banner.svg" width="500">
 </p>
 
 # DevPrime
