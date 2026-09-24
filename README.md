@@ -2,7 +2,7 @@
 
 Developer focused on Minecraft engineering, Discord automation, and high‑performance server setups.
 
-**Portfolio: devprime.wtf**
+**Portfolio: https://devprime.wtf**
 
 I help people turn small ideas into real projects — fast, clean, and optimised.
 
