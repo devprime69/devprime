@@ -1,6 +1,6 @@
 # DevPrime
 
-Developer focused on Minecraft engineering, Discord automation, and high‑performance server setups.
+Developer focused on Minecraft developing, system administrations, and discord developement.
 
 **Portfolio: https://devprime.wtf**
 
@@ -12,7 +12,7 @@ Minecraft Java development (custom plugins, full server setups)
 
 Dedicated server panel configuration
 
-Performance optimisation (lag reduction, stability tuning)
+Performance optimisation (lag reduction, stability the best it can be)
 
 Discord bots + server templates
 
