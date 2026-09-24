@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./pfppng.png" width="500">
+  <img src="./PFPPNG.png" width="500">
 </p>
 
 # DevPrime
